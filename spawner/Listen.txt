@@ -1,0 +1,1 @@
+this is the code for Unity2D, create an empty object and use this script for it and fill in the appearance points and objects that will appear, fill in the time interval for the objects to appear
